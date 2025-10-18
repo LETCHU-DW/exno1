@@ -271,4 +271,5 @@ df1
 <img width="304" height="401" alt="Screenshot 2025-08-19 111236" src="https://github.com/user-attachments/assets/c71cda29-9478-460c-9a0a-f4bc1ee6bbdd" />
 
 # Result
-    The above code is excuted successfully     
+Thus we have cleaned the data and removed the outliers by detection using IQR and Z-score method.
+   
